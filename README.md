@@ -1,22 +1,30 @@
-Python Quiz Game
-The Python Quiz Game is an interactive console-based application designed to test users' knowledge on a variety of topics.
-The purpose of this project is to provide an engaging and educational experience, allowing users to answer multiple-choice questions and receive immediate feedback on their performance.
+Donut Shop - Python Project
+Description:
+
+Welcome to the Donut Shop Python project! This simple command-line application allows customers to view available donuts, place orders, and receive order summaries. Each donut has a unique flavor, price in South African Rands (ZAR), and availability status.
 
 Features:
-Diverse Questions: The quiz covers a range of subjects, including general knowledge, geography, programming, and more.
 
-Scoring System: Users accumulate points for each correct answer, and their final score is displayed at the end of the quiz.
+Display Menu: View the list of available donuts with their flavors, prices, and availability.
 
-Easy to Customize: The project is easily customizable, allowing the addition of new questions to tailor the quiz to specific themes or subjects.
+Place Order: Choose a donut flavor and specify the quantity to place an order. The application calculates the total price in ZAR.
 
-How to Use:
-Clone or download the project repository.
-Run the Python script to start the quiz.
-Answer each question by selecting the corresponding number for your choice.
-Receive instant feedback on your answers and see your final score.
-This quiz project serves as a template that can be expanded upon, making it an excellent learning resource for both Python programming and content creation for quiz-based applications.
+Display Orders: View a summary of the current orders, including the flavor, quantity, and total price.
 
-Feel free to modify and extend the project to create quizzes on various topics and challenge users in a fun and interactive way!
+Chicken Online Ordering System - Python Project
+Description:
+
+Welcome to the Chicken Online Ordering System Python project! This script simulates an online chicken ordering system. Users can view available chicken options, place orders with different spice levels, and receive order summaries.
+
+Features:
+
+Display Chicken Menu: View available chicken flavors.
+
+Place Chicken Order: Choose a flavor, specify the spice level, and order quantity.
+
+View Order Summaries: Display summaries of placed orders.
+
+
 
 
 
